@@ -13,3 +13,15 @@ Under the Sources tab, ensure the Source Package and Web Pages are correctly set
 
 **Step 3: Create the MySQL Database**
 Import gatepass_db.sql into the Database
+
+**Admin**
+UserName : admin
+Password : admin123
+
+**Rector**
+UserName : floor3
+Password : floor123
+
+**Student**
+UserName : 10002
+Password : Bharath2807
